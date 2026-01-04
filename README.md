@@ -33,7 +33,7 @@ The sentiment score is calculated by:
 $$\text{Sentiment Score} = \sum_{i=1}^{n} \text{valence}(word_i)$$
 
 ## Live Demo
-[**🚀 View Live Demo**]([https://your-link-here.com](https://afinn-sentiment-analysis.netlify.app/))
+[**🚀 View Live Demo**] https://your-link-here.com](https://afinn-sentiment-analysis.netlify.app/
 
 
 ## 📦 Installation & Setup
