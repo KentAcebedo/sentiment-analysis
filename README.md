@@ -1,5 +1,5 @@
 # 📊 Sentiment Analysis Consultant
-
+[**🚀 View Live Demo**]([https://your-link-here.com](https://afinn-sentiment-analysis.netlify.app/))
 A sleek, real-time sentiment analysis tool that evaluates the emotional tone of text using the **AFINN-161** lexical algorithm. Built with a modern UI powered by **Tailwind CSS** and a lightweight **Vanilla JavaScript** engine.
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
